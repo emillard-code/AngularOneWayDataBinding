@@ -21,3 +21,6 @@ export class UserComponent implements OnInit {
   }
 
 }
+
+// You can declare an object here if you want.
+// It would remove the need for importing from another class.
